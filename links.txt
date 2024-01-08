@@ -1,0 +1,2 @@
+LINKS:
+https://alexpotter.dev/net-6-with-vue-3/
